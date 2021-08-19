@@ -1,0 +1,2 @@
+rootProject.name = "MvpPractice"
+include ':app'
